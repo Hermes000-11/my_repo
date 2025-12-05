@@ -1,21 +1,21 @@
 1) В файле demo есть коммиты dots, boots в master нет, а в master есть коммит fix readme в demo нет
 
-master содерит такие комментарии к коммитам:
+master содержит такие комментарии к коммитам:
     fix readme
     README added
     init
-boots содерит такие комментарии к коммитам:
+boots содержит такие комментарии к коммитам:
     boots
     init
-buttons содерит такие комментарии к коммитам:
+buttons содержит такие комментарии к коммитам:
     dots
     README added
     init
-demo содерит такие комментарии к коммитам:
+demo содержит такие комментарии к коммитам:
     dots README added
     boots
     heat added
     init
-hat содерит такие комментарии к коммитам:
+hat содержит такие комментарии к коммитам:
     heat added
     init
